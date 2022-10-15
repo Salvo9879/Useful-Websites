@@ -25,7 +25,7 @@ Useful websites for coding
 18. https://svgrepo.com - Collections of 300,000 svgs
 19. https://carrd.co - Templating editor
 20. https:/neumorphism.io/#dae5f1 - Creating a neumorphism effects
-21. https://larsenwork.com/easing-gradients/ - Css gradient generator
+21. ''' https://larsenwork.com/easing-gradients/ - Css gradient generator
 22. https://chartscss.org - Html & css chart generator
 23. https://codepen.io/himalayasingh/pen/EdVzNL - Collection of css toggle buttons
 24. https://app.haikei.app - Svg background generator
