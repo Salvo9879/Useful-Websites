@@ -2,7 +2,7 @@
 Useful websites for coding
 
 ---
-#Front-end Tools
+# Front-end Tools
 
 1. https://10015.io - General css tools
 2. https://animatedbackgrounds.me - Code only animated backgrounds
@@ -31,7 +31,7 @@ Useful websites for coding
 24. https://app.haikei.app - Svg background generator
 25. https://iconer.app - Create svg icon packs
 
-#JS Libraries
+# JS Libraries
 
 1. https://apvarun.github.io/toastify-js/ - Alert pop ups
 2. https://nosir.github.io/cleave.js/ - Masked input controls
