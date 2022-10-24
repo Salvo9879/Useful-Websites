@@ -2,6 +2,13 @@
 Useful websites for coding
 
 ---
+
+# Developer Sites
+1. https://miro.com/ - Create wbeiste maps
+2. https://type-scale.com/ - Visual type scale
+3. https://0to255.com/ - Color Picker
+
+
 # Front-end Tools
 
 1. https://10015.io - General css tools
