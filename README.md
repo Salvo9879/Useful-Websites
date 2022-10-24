@@ -7,6 +7,7 @@ Useful websites for coding
 1. https://miro.com/ - Create wbeiste maps
 2. https://type-scale.com/ - Visual type scale
 3. https://0to255.com/ - Color Picker
+4. https://color-name.com - Find the name of a color
 
 
 # Front-end Tools
