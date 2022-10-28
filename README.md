@@ -4,11 +4,9 @@ Useful websites for coding
 ---
 
 # Developer Sites
-1. https://miro.com/ - Create wbeiste maps
-2. https://type-scale.com/ - Visual type scale
-3. https://0to255.com/ - Color Picker
-4. https://color-name.com - Find the name of a color
-
+1. https://miro.com/ - Create website maps
+2. https://figma.com - Create website UX/UI
+3. https://postman.com - API platform
 
 # Front-end Tools
 
@@ -38,6 +36,10 @@ Useful websites for coding
 23. https://codepen.io/himalayasingh/pen/EdVzNL - Collection of css toggle buttons
 24. https://app.haikei.app - Svg background generator
 25. https://iconer.app - Create svg icon packs
+26. https://autoprefixer.github.io/
+27. https://type-scale.com/ - Visual type scale
+28. https://0to255.com/ - Color Picker
+29. https://color-name.com - Find the name of a color
 
 # JS Libraries
 
